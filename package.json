@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/DUDU54/AutoRarity#readme",
   "dependencies": {
-    "@ethersproject/experimental": "^5.5.0",
+    "@ethersproject/experimental": "^5.7.0",
     "@ethersproject/providers": "^5.4.5",
     "better-sqlite3": "^7.5.0",
     "dotenv": "^16.0.0",
