@@ -21,7 +21,7 @@
     "@ethersproject/providers": "^5.4.5",
     "better-sqlite3": "^7.5.0",
     "dotenv": "^16.0.0",
-    "ethers": "^5.5.4",
+    "ethers": "^6.0.5",
     "fs": "^0.0.1-security",
     "grammy": "^1.7.0",
     "graphql": "^16.3.0",
